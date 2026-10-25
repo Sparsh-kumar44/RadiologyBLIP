@@ -140,6 +140,5 @@ Actual evaluation metrics should be reported here after running the final evalua
 - Evaluate with appropriate medical VQA metrics.
 - Analyze incorrect predictions and common failure cases.
 - Compare BLIP with alternative vision-language models.
-- Improve reproducibility by recording training configurations and evaluation results.
 
-## ⚠️ Limit
+
